@@ -1,6 +1,6 @@
 Hello, I'm @sykcor, or Rocky.
 
-I'm a game developer with an interest in player and AI mechanics, and am constantly searching for ways to improve.
+I'm a game developer with a focus on player and AI mechanics. Constantly searching for ways to improve and always tinkering with a project.
 My current learning focus is C#, C++ and lua
 
 You can find more details about me at: [rockysavoeung.com](https://rockysavoeung.com)
